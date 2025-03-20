@@ -22,11 +22,6 @@ The project is structured as follows:
 
 ![Heatmap](https://github.com/user-attachments/assets/24a29737-8cbf-4b1a-bb90-16202af1e2d7)
 
-- **Data Preprocessing**: Cleaning and transforming raw housing data for model training.
-- **Exploratory Data Analysis (EDA)**: Identifying key features, visualizing distributions, and understanding correlations.
-- **Feature Engineering**: Handling missing values, encoding categorical variables, and scaling numerical features.
-- **Model Training**: Implementing a regression model to predict house prices.
-
 ## Running the Project
 
 To execute the project, follow these steps:
